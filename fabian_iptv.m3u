@@ -246,10 +246,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="卫视频道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="卫视频道",梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/
-#EXTINF:-1 tvg-id="移动戏曲频道" tvg-name="移动戏曲频道" tvg-logo="https://live.fanmingming.com/tv/移动戏曲频道.png" group-title="卫视频道",移动戏曲频道
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=06868753c7bac58cfdeda5d7318a5fd3&wsTime=1707284112
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视频道",都市剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
@@ -380,7 +376,6 @@ http://epg.112114.xyz/douyu/7655471
 #EXTINF:-1 tvg-id="情景喜剧" tvg-name="情景喜剧" tvg-logo="" group-title="电影联通线路",情景喜剧
 http://epg.112114.xyz/douyu/3980787
 
-
 #EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" tvg-logo="https://live.fanmingming.com/tv/吉林综艺.png" group-title="吉林地方频道",吉林综艺文化
 https://stream13.jlntv.cn/zypdhd/playlist.m3u8?_upt=c7fa36191707294395
 #EXTINF:-1 tvg-id="吉林公共频道" tvg-name="吉林公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051101900.jpg" group-title="吉林地方频道",吉林公共频道
@@ -391,6 +386,11 @@ https://stream13.jlntv.cn/xcpdhd/playlist.m3u8?_upt=85e539c31707294098
 https://stream12.jlntv.cn/shpdhd/playlist.m3u8?_upt=f1892b101707294456
 #EXTINF:-1 tvg-id="吉林影视频道" tvg-name="吉林影视频道" tvg-logo="https://live.fanmingming.com/tv/吉林影视.png" group-title="吉林地方频道",吉林影视频道
 https://stream13.jlntv.cn/yspdhd/playlist.m3u8?_upt=c70379d31707294556
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="吉林地方频道",梨园频道
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/
+#EXTINF:-1 tvg-id="移动戏曲频道" tvg-name="移动戏曲频道" tvg-logo="https://live.fanmingming.com/tv/移动戏曲频道.png" group-title="吉林地方频道",移动戏曲频道
+https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=06868753c7bac58cfdeda5d7318a5fd3&wsTime=1707284112
+
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
