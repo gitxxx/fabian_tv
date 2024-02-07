@@ -301,82 +301,83 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视频道",金色学堂
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
 
-#EXTINF:-1  tvg-id="经典小品" tvg-name="经典小品" tvg-logo="" group-title="电影联通线路",经典小品
+#EXTINF:-1 tvg-id="经典小品" tvg-name="经典小品" tvg-logo="" group-title="电影联通线路",经典小品
 http://epg.112114.xyz/douyu/9067836
-#EXTINF:-1  tvg-id="赵本山小品" tvg-name="赵本山小品" tvg-logo="" group-title="电影联通线路",赵本山小品
+#EXTINF:-1 tvg-id="赵本山小品" tvg-name="赵本山小品" tvg-logo="" group-title="电影联通线路",赵本山小品
 http://epg.112114.xyz/douyu/9817716
-#EXTINF:-1  tvg-id="宋小宝小品" tvg-name="宋小宝小品" tvg-logo="" group-title="电影联通线路",宋小宝小品
+#EXTINF:-1 tvg-id="宋小宝小品" tvg-name="宋小宝小品" tvg-logo="" group-title="电影联通线路",宋小宝小品
 http://epg.112114.xyz/douyu/9817729
-#EXTINF:-1  tvg-id="华语经典" tvg-name="华语经典" tvg-logo="" group-title="电影联通线路",华语经典
+
+#EXTINF:-1 tvg-id="华语经典" tvg-name="华语经典" tvg-logo="" group-title="电影联通线路",华语经典
 http://epg.112114.xyz/douyu/434971
-#EXTINF:-1  tvg-id="华语电影" tvg-name="华语电影" tvg-logo="" group-title="电影联通线路",华语电影
+#EXTINF:-1 tvg-id="华语电影" tvg-name="华语电影" tvg-logo="" group-title="电影联通线路",华语电影
 http://epg.112114.xyz/douyu/3928
-#EXTINF:-1  tvg-id="吃米滴虫" tvg-name="吃米滴虫" tvg-logo="" group-title="电影联通线路",吃米滴虫
+#EXTINF:-1 tvg-id="吃米滴虫" tvg-name="吃米滴虫" tvg-logo="" group-title="电影联通线路",吃米滴虫
 http://epg.112114.xyz/douyu/315457
-#EXTINF:-1  tvg-id="吃奶滴虫" tvg-name="吃奶滴虫" tvg-logo="" group-title="电影联通线路",吃奶滴虫
+#EXTINF:-1 tvg-id="吃奶滴虫" tvg-name="吃奶滴虫" tvg-logo="" group-title="电影联通线路",吃奶滴虫
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1  tvg-id="神乐华语" tvg-name="神乐华语" tvg-logo="" group-title="电影联通线路",神乐华语
+#EXTINF:-1 tvg-id="神乐华语" tvg-name="神乐华语" tvg-logo="" group-title="电影联通线路",神乐华语
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1  tvg-id="特辑影院" tvg-name="特辑影院" tvg-logo="" group-title="电影联通线路",特辑影院
+#EXTINF:-1 tvg-id="特辑影院" tvg-name="特辑影院" tvg-logo="" group-title="电影联通线路",特辑影院
 http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1  tvg-id="漫威影片" tvg-name="漫威影片" tvg-logo="" group-title="电影联通线路",漫威影片
+#EXTINF:-1 tvg-id="漫威影片" tvg-name="漫威影片" tvg-logo="" group-title="电影联通线路",漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1  tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="" group-title="电影联通线路",周星驰电影
+#EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="" group-title="电影联通线路",周星驰电影
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1  tvg-id="刘德华电影1" tvg-name="刘德华电影1" tvg-logo="" group-title="电影联通线路",刘德华电影1
+#EXTINF:-1 tvg-id="刘德华电影1" tvg-name="刘德华电影1" tvg-logo="" group-title="电影联通线路",刘德华电影1
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1  tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="" group-title="电影联通线路",豆瓣高分
+#EXTINF:-1 tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="" group-title="电影联通线路",豆瓣高分
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1  tvg-id="经典武侠" tvg-name="经典武侠" tvg-logo="" group-title="电影联通线路",经典武侠
+#EXTINF:-1 tvg-id="经典武侠" tvg-name="经典武侠" tvg-logo="" group-title="电影联通线路",经典武侠
 http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1  tvg-id="那些年的经典" tvg-name="那些年的经典" tvg-logo="" group-title="电影联通线路",那些年的经典
+#EXTINF:-1 tvg-id="那些年的经典" tvg-name="那些年的经典" tvg-logo="" group-title="电影联通线路",那些年的经典
 http://epg.112114.xyz/douyu/1274132
-#EXTINF:-1  tvg-id="林正英电影1" tvg-name="林正英电影1" tvg-logo="" group-title="电影联通线路",林正英电影1
+#EXTINF:-1 tvg-id="林正英电影1" tvg-name="林正英电影1" tvg-logo="" group-title="电影联通线路",林正英电影1
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1  tvg-id="林正英电影2" tvg-name="林正英电影2" tvg-logo="" group-title="电影联通线路",林正英电影2
+#EXTINF:-1 tvg-id="林正英电影2" tvg-name="林正英电影2" tvg-logo="" group-title="电影联通线路",林正英电影2
 http://epg.112114.xyz/douyu/7356023
-#EXTINF:-1  tvg-id="女神金电影" tvg-name="女神金电影" tvg-logo="" group-title="电影联通线路",女神金电影
+#EXTINF:-1 tvg-id="女神金电影" tvg-name="女神金电影" tvg-logo="" group-title="电影联通线路",女神金电影
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1  tvg-id="贝爷MAX厅" tvg-name="贝爷MAX厅" tvg-logo="" group-title="电影联通线路",贝爷MAX厅
+#EXTINF:-1 tvg-id="贝爷MAX厅" tvg-name="贝爷MAX厅" tvg-logo="" group-title="电影联通线路",贝爷MAX厅
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1  tvg-id="贝爷影厅1" tvg-name="贝爷影厅1" tvg-logo="" group-title="电影联通线路",贝爷影厅1
+#EXTINF:-1 tvg-id="贝爷影厅1" tvg-name="贝爷影厅1" tvg-logo="" group-title="电影联通线路",贝爷影厅1
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1  tvg-id="贝爷影厅2" tvg-name="贝爷影厅2" tvg-logo="" group-title="电影联通线路",贝爷影厅2
+#EXTINF:-1 tvg-id="贝爷影厅2" tvg-name="贝爷影厅2" tvg-logo="" group-title="电影联通线路",贝爷影厅2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1  tvg-id="电影欧美" tvg-name="电影欧美" tvg-logo="" group-title="电影联通线路",电影欧美
+#EXTINF:-1 tvg-id="电影欧美" tvg-name="电影欧美" tvg-logo="" group-title="电影联通线路",电影欧美
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1  tvg-id="冰冰经典电影" tvg-name="冰冰经典电影" tvg-logo="" group-title="电影联通线路",冰冰经典电影
+#EXTINF:-1 tvg-id="冰冰经典电影" tvg-name="冰冰经典电影" tvg-logo="" group-title="电影联通线路",冰冰经典电影
 http://epg.112114.xyz/douyu/74374
-#EXTINF:-1  tvg-id="林林影院" tvg-name="林林影院" tvg-logo="" group-title="电影联通线路",林林影院
+#EXTINF:-1 tvg-id="林林影院" tvg-name="林林影院" tvg-logo="" group-title="电影联通线路",林林影院
 http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1  tvg-id="恐怖经典" tvg-name="恐怖经典" tvg-logo="" group-title="电影联通线路",恐怖经典
+#EXTINF:-1 tvg-id="恐怖经典" tvg-name="恐怖经典" tvg-logo="" group-title="电影联通线路",恐怖经典
 http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1  tvg-id="变种人电影" tvg-name="变种人电影" tvg-logo="" group-title="电影联通线路",变种人电影
+#EXTINF:-1 tvg-id="变种人电影" tvg-name="变种人电影" tvg-logo="" group-title="电影联通线路",变种人电影
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1  tvg-id="麓山迷踪" tvg-name="麓山迷踪" tvg-logo="" group-title="电影联通线路",麓山迷踪
+#EXTINF:-1 tvg-id="麓山迷踪" tvg-name="麓山迷踪" tvg-logo="" group-title="电影联通线路",麓山迷踪
 http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1  tvg-id="欧美大片" tvg-name="欧美大片" tvg-logo="" group-title="电影联通线路",欧美大片
+#EXTINF:-1 tvg-id="欧美大片" tvg-name="欧美大片" tvg-logo="" group-title="电影联通线路",欧美大片
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1  tvg-id="小宇60帧" tvg-name="小宇60帧" tvg-logo="" group-title="电影联通线路",小宇60帧
+#EXTINF:-1 tvg-id="小宇60帧" tvg-name="小宇60帧" tvg-logo="" group-title="电影联通线路",小宇60帧
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1  tvg-id="4K HDR" tvg-name="4K HDR" tvg-logo="" group-title="电影联通线路",4K HDR
+#EXTINF:-1 tvg-id="4K HDR" tvg-name="4K HDR" tvg-logo="" group-title="电影联通线路",4K HDR
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1  tvg-id="喜剧电影专场" tvg-name="喜剧电影专场" tvg-logo="" group-title="电影联通线路",喜剧电影专场
+#EXTINF:-1 tvg-id="喜剧电影专场" tvg-name="喜剧电影专场" tvg-logo="" group-title="电影联通线路",喜剧电影专场
 http://epg.112114.xyz/douyu/9292492
 
-#EXTINF:-1  tvg-id="连续剧1" tvg-name="连续剧1" tvg-logo="" group-title="电影联通线路",连续剧1
+#EXTINF:-1 tvg-id="连续剧1" tvg-name="连续剧1" tvg-logo="" group-title="电影联通线路",连续剧1
 http://epg.112114.xyz/douyu/4549169
-#EXTINF:-1  tvg-id="连续剧2" tvg-name="连续剧2" tvg-logo="" group-title="电影联通线路",连续剧2
+#EXTINF:-1 tvg-id="连续剧2" tvg-name="连续剧2" tvg-logo="" group-title="电影联通线路",连续剧2
 http://epg.112114.xyz/douyu/7623292
-#EXTINF:-1  tvg-id="连续剧3" tvg-name="连续剧3" tvg-logo="" group-title="电影联通线路",连续剧3
+#EXTINF:-1 tvg-id="连续剧3" tvg-name="连续剧3" tvg-logo="" group-title="电影联通线路",连续剧3
 http://epg.112114.xyz/douyu/7476264
-#EXTINF:-1  tvg-id="经典电视剧" tvg-name="经典电视剧" tvg-logo="" group-title="电影联通线路",经典电视剧
+#EXTINF:-1 tvg-id="经典电视剧" tvg-name="经典电视剧" tvg-logo="" group-title="电影联通线路",经典电视剧
 http://epg.112114.xyz/douyu/7459925
-#EXTINF:-1  tvg-id="看剧" tvg-name="看剧" tvg-logo="" group-title="电影联通线路",看剧
+#EXTINF:-1 tvg-id="看剧" tvg-name="看剧" tvg-logo="" group-title="电影联通线路",看剧
 http://epg.112114.xyz/douyu/431460
-#EXTINF:-1  tvg-id="武侠剧" tvg-name="武侠剧" tvg-logo="" group-title="电影联通线路",武侠剧
+#EXTINF:-1 tvg-id="武侠剧" tvg-name="武侠剧" tvg-logo="" group-title="电影联通线路",武侠剧
 http://epg.112114.xyz/douyu/7655471
-#EXTINF:-1  tvg-id="情景喜剧" tvg-name="情景喜剧" tvg-logo="" group-title="电影联通线路",情景喜剧
+#EXTINF:-1 tvg-id="情景喜剧" tvg-name="情景喜剧" tvg-logo="" group-title="电影联通线路",情景喜剧
 http://epg.112114.xyz/douyu/3980787
 
 
