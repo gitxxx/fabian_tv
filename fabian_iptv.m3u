@@ -448,32 +448,32 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方频道",农林卫视
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-#EXTINF:-1 tvg-id="新闻频道" tvg-name="新闻频道" tvg-logo="" group-title="地方频道",新闻频道
+#EXTINF:-1 tvg-id="新闻频道" tvg-name="新闻频道" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="地方频道",河南新闻频道
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=75441819ae27e75d5c8f8315f89c397e&wsTime=1707284112
-#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="" group-title="地方频道",都市频道
+#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="地方频道",河南都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=93436299640f2836af0276236658995f&wsTime=1707284112
-#EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="" group-title="地方频道",民生频道
+#EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="地方频道",河南民生频道
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=0d6244520f74bb9f355c97215d059f04&wsTime=1707284112
-#EXTINF:-1 tvg-id="法治频道" tvg-name="法治频道" tvg-logo="" group-title="地方频道",法治频道
+#EXTINF:-1 tvg-id="法治频道" tvg-name="法治频道" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="地方频道",河南法治频道
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f0dcd49545a074c8ef849a7145f57b46&wsTime=1707284112
-#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="" group-title="地方频道",公共频道
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="地方频道",河南公共频道
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b9e0148eef5ab297d809306129870a35&wsTime=1707284112
-#EXTINF:-1 tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="" group-title="地方频道",河南乡村频道
+#EXTINF:-1 tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="地方频道",河南乡村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=62680ba7880720d97a803b995fede224&wsTime=1707284112
-#EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="" group-title="地方频道",电视剧频道
+#EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="地方频道",电视剧频道
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=187a31488772e3a7f35b23fe91663786&wsTime=1707284112
-#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="" group-title="地方频道",河南国际
+#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://live.fanmingming.com/tv/河南国际.png" group-title="地方频道",河南国际
 http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=a68dd145c4b1e4fe1beed1b9502958f1&wsTime=1707284112
 playlist.m3u8?wsSecret=f140c7c1ca9f780a4c5841ef58fdb286&wsTime=1707284112
-#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="" group-title="地方频道",文物宝库
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="地方频道",文物宝库
 http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=284db2edc698dc8ba3f5b60994f82dc0&wsTime=1707284112
-#EXTINF:-1 tvg-id="武术频道" tvg-name="武术频道" tvg-logo="" group-title="地方频道",武术频道
+#EXTINF:-1 tvg-id="武术频道" tvg-name="武术频道" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="地方频道",武术世界频道
 http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=80a157c524186d4fb485e2bb4aa66ae1&wsTime=1707284112
-#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="" group-title="地方频道",睛彩中原
+#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.com/tv/henan.png" group-title="地方频道",睛彩中原
 http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=ad5bc0fb02098d5f15988506ffa92ad8&wsTime=1707284112
-#EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="" group-title="地方频道",象视界
+#EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="https://live.fanmingming.com/tv/henan.png" group-title="地方频道",象视界
 http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=7b0149a90417a9c6a8441168ae509b20&wsTime=1707284112
-#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="" group-title="地方频道",国学频道
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="地方频道",国学频道
 http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=b18300ad21c2a1037cab0946fda02588&wsTime=1707284112
 
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育
