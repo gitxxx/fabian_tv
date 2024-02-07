@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url-no="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -381,15 +381,15 @@ http://epg.112114.xyz/douyu/7655471
 http://epg.112114.xyz/douyu/3980787
 
 
-#EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" tvg-logo="https://live.fanmingming.com/tv/吉林综艺.png" group-title="地方频道",吉林综艺文化
+#EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" tvg-logo="https://live.fanmingming.com/tv/吉林综艺.png" group-title="吉林地方频道",吉林综艺文化
 https://stream13.jlntv.cn/zypdhd/playlist.m3u8?_upt=c7fa36191707294395
-#EXTINF:-1 tvg-id="吉林公共频道" tvg-name="吉林公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051101900.jpg" group-title="地方频道",吉林公共频道
+#EXTINF:-1 tvg-id="吉林公共频道" tvg-name="吉林公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512051101900.jpg" group-title="吉林地方频道",吉林公共频道
 https://stream13.jlntv.cn/ggpdhd/playlist.m3u8?_upt=19cca5701707294442
-#EXTINF:-1 tvg-id="吉林乡村频道" tvg-name="吉林乡村频道" tvg-logo="https://live.fanmingming.com/tv/吉林乡村.png" group-title="地方频道",吉林乡村频道
+#EXTINF:-1 tvg-id="吉林乡村频道" tvg-name="吉林乡村频道" tvg-logo="https://live.fanmingming.com/tv/吉林乡村.png" group-title="吉林地方频道",吉林乡村频道
 https://stream13.jlntv.cn/xcpdhd/playlist.m3u8?_upt=85e539c31707294098
-#EXTINF:-1 tvg-id="吉林生活频道" tvg-name="吉林生活频道" tvg-logo="https://live.fanmingming.com/tv/吉林生活.png" group-title="地方频道",吉林生活频道
+#EXTINF:-1 tvg-id="吉林生活频道" tvg-name="吉林生活频道" tvg-logo="https://live.fanmingming.com/tv/吉林生活.png" group-title="吉林地方频道",吉林生活频道
 https://stream12.jlntv.cn/shpdhd/playlist.m3u8?_upt=f1892b101707294456
-#EXTINF:-1 tvg-id="吉林影视频道" tvg-name="吉林影视频道" tvg-logo="https://live.fanmingming.com/tv/吉林影视.png" group-title="地方频道",吉林影视频道
+#EXTINF:-1 tvg-id="吉林影视频道" tvg-name="吉林影视频道" tvg-logo="https://live.fanmingming.com/tv/吉林影视.png" group-title="吉林地方频道",吉林影视频道
 https://stream13.jlntv.cn/yspdhd/playlist.m3u8?_upt=c70379d31707294556
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
